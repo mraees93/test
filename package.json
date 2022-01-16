@@ -1,0 +1,17 @@
+{
+  "name": "validateidnumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "idNumber.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jasmine": "^4.0.2"
+  }
+}
